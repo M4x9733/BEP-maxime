@@ -177,6 +177,51 @@ parts:
 
       - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/seamless.md
         sections:
+          - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/region.md
+            sections:
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_0a_select_caravan_region_time_and_scenarios_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_0b_select_CMIP_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_1a_generate_historical_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_1b_generate_future_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_2a_calibrate_HBV_montecarlo_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_2b_calibrate_HBV_SCE_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_3a_model_run_historical_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_3b_model_run_future_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02481510/step_4_analyse_executed.ipynb
+          - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/region.md
+            sections:
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_0a_select_caravan_region_time_and_scenarios_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_0b_select_CMIP_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_1a_generate_historical_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_1b_generate_future_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_2a_calibrate_HBV_montecarlo_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_2b_calibrate_HBV_SCE_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_3a_model_run_historical_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_3b_model_run_future_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_02492343/step_4_analyse_executed.ipynb
+          - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/region.md
+            sections:
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_0a_select_caravan_region_time_and_scenarios_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_0b_select_CMIP_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_1a_generate_historical_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_1b_generate_future_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_2a_calibrate_HBV_montecarlo_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_2b_calibrate_HBV_SCE_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_3a_model_run_historical_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_3b_model_run_future_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07375500/step_4_analyse_executed.ipynb
+          - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/region.md
+            sections:
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_0a_select_caravan_region_time_and_scenarios_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_0b_select_CMIP_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_1a_generate_historical_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_1b_generate_future_forcing_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_2a_calibrate_HBV_montecarlo_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_2b_calibrate_HBV_SCE_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_3a_model_run_historical_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_3b_model_run_future_executed.ipynb
+              - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/second_results/hysets_07377000/step_4_analyse_executed.ipynb
+
           - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/first_results/camelsgb_22001/region.md
             sections:
               - file: thesis_projects/Research/eWaterCycle-ClimateChangeImpact/first_results/camelsgb_22001/step_0a_select_caravan_region_time_and_scenarios_executed.ipynb
